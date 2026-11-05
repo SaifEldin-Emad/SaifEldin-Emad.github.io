@@ -17,4 +17,4 @@ const glassPot = new Pot("glass");
 
 createRoot(document.getElementById('root')).render(
   testVar
-) 
+)
